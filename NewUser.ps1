@@ -5,7 +5,7 @@
 # Author: Sheridan Wendt
 # Date: 9/15/2017
 # Applies to: Users
-#
+#sssssssss
 # Description: This script performs the normal steps involved in creating a new
 # user, including: copying user in active directory, assigning group membership, 
 # creating a home drive folder, setting permissions, creating an application
